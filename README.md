@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align = "center">
+<h1>WELCOME TO HUGE W GITHUB PROGILE PAGE</h6>
 
-<!--
-**alimasigna/alimasigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔥 everything about me 🔥  <br/><br/> <br/> 
+  😾 cat enjoyer 😾  <br/><br/>
+  ✍️ only writing good code ✍️ <br/><br/>
+  🙏 official apprentice of [TSR Berry](https://github.com/TSRBerry) 🙏 <br/><br/>
+  ⚙️ working on too many games in Unity at once ⚙️<br/><br/>
+---------------------------------------------------
+![Cats](https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif)
+</div>
+
+
