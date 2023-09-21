@@ -1,5 +1,5 @@
 <div align = "center">
-<h1>WELCOME TO HUGE W GITHUB PROGILE PAGE</h6>
+<h1>WELCOME TO HUGE W GITHUB PROFILE PAGE</h6>
 
 
 <br/><br/>
